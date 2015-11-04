@@ -19,7 +19,6 @@
   - **Licensed Free** - The City of Austin shall license any data it publishes for free re-use to ensure clarity of copyright without legal responsibility or liability for publishing such data.
 
   - **Contracted products and services must adhere** - To ensure that the public retains access to its data, provisions should added whenever possible to the existing procurement, contracting or planning processes requiring government contractors release government relevant information openly.
-  - 
   
 ## Policy Documents: 
 
@@ -30,3 +29,5 @@
 ## Policy Team Meeting Notes:
 
 - [November 3, 2015](https://github.com/open-austin/open-by-default/wiki/Notes-from-3-Nov)
+
+## [See the wiki for more](https://github.com/open-austin/open-by-default/wiki)
