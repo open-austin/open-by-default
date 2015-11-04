@@ -11,6 +11,7 @@ Contribute by:
 
 - [2011 CoA Open Data Ordiance](http://www.ci.austin.tx.us/edims/document.cfm?id=161941)
 - [Texas Legislature Open Government Code](http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.552.htm)
+- [Template for Community Tech & Telecom Recommendation](https://github.com/open-austin/open-by-default/blob/master/formal-recommendation-template.md)
 
 
 ## Policy Team Meeting Notes:
