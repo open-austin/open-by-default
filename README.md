@@ -19,6 +19,12 @@
   - **Licensed Free** - The City of Austin shall license any data it publishes for free re-use to ensure clarity of copyright without legal responsibility or liability for publishing such data.
 
   - **Contracted products and services must adhere** - To ensure that the public retains access to its data, provisions should added whenever possible to the existing procurement, contracting or planning processes requiring government contractors release government relevant information openly.
+  - 
+  
+## Policy Documents: 
+
+- [Exisiting City of Austin Open Data Ordiance](http://www.ci.austin.tx.us/edims/document.cfm?id=161941)
+- [Texas Legislature Open Government Code](http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.552.htm)
 
 
 ## Policy Team Meeting Notes:
