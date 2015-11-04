@@ -1,5 +1,26 @@
 # OPEN BY DEFAULT 
 
+Open Austin is drafting some priorities for Open Data & Open Government Policy at City Council.
+
+Contribute by: 
+  - Reviewing the exisiting City of Austin [Open Data Ordiance](http://www.ci.austin.tx.us/edims/document.cfm?id=161941) from 2011.
+  - Adding items or comments to our [Policy Priorities Google Doc](http://tinyurl.com/oa-policy-priorities)
+  - Joining the #policy channel on our [Slack chat](http://slack.open-austin.org/)
+  
+## Policy Documents: 
+
+- [2011 CoA Open Data Ordiance](http://www.ci.austin.tx.us/edims/document.cfm?id=161941)
+- [Texas Legislature Open Government Code](http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.552.htm)
+
+
+## Policy Team Meeting Notes:
+
+- [November 3, 2015](https://github.com/open-austin/open-by-default/wiki/Notes-from-3-Nov)
+
+### [See the wiki for more](https://github.com/open-austin/open-by-default/wiki)
+
+---
+
 ### Statements
 
 **Local Data is Open By Default** - Public data sets must be considered open unless they contain information designated as sensitive, private, or confidential by federal or state law, rule or regulation or local law. It is the city’s duty to ensure a system that embraces automation, ease and sustainability.
@@ -19,15 +40,3 @@
   - **Licensed Free** - The City of Austin shall license any data it publishes for free re-use to ensure clarity of copyright without legal responsibility or liability for publishing such data.
 
   - **Contracted products and services must adhere** - To ensure that the public retains access to its data, provisions should added whenever possible to the existing procurement, contracting or planning processes requiring government contractors release government relevant information openly.
-  
-## Policy Documents: 
-
-- [Exisiting City of Austin Open Data Ordiance](http://www.ci.austin.tx.us/edims/document.cfm?id=161941)
-- [Texas Legislature Open Government Code](http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.552.htm)
-
-
-## Policy Team Meeting Notes:
-
-- [November 3, 2015](https://github.com/open-austin/open-by-default/wiki/Notes-from-3-Nov)
-
-## [See the wiki for more](https://github.com/open-austin/open-by-default/wiki)
