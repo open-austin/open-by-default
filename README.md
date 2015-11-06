@@ -14,7 +14,7 @@ Contribute by:
 - [Texas Legislature Open Government Code](http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.552.htm)
 - [Template for Community Tech & Telecom Recommendation](https://github.com/open-austin/open-by-default/blob/master/formal-recommendation-template.md)
 
-## Policy Suggestions, Reports, and Evaluations:
+## Policy Guidelines, Reports, and Evaluations:
 - [Sunlight Foundation: Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/)
 - [Omidyar Network: Six Stories About Open Data Impact in the UK](https://www.omidyar.com/sites/default/files/file_archive/insights/Open%20Data_Six%20Stories%20About%20Impact%20in%20the%20UK/OpenData_CaseStudies_Report_complete_DIGITAL_102715.pdf)
 
