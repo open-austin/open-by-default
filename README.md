@@ -11,6 +11,7 @@ Contribute by:
 ## Policy Documents: 
 
 - [2011 CoA Open Data Ordiance](http://www.ci.austin.tx.us/edims/document.cfm?id=161941)
+- [2013 CoA Open Government Directive](http://www.open-austin.org/wp-content/uploads/2013/09/Memo-to-Mayor-and-Council-with-attached-Open-Government-Directive.pdf)
 - [Texas Legislature Open Government Code](http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.552.htm)
 - [Template for Community Tech & Telecom Recommendation](https://github.com/open-austin/open-by-default/blob/master/formal-recommendation-template.md)
 
