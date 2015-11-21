@@ -20,6 +20,7 @@ Open Austin is drafting some priorities for Open Data & Open Government Policy a
 ## Policy Guidelines, Reports, and Evaluations:
 - [Sunlight Foundation: Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/)
 - [Omidyar Network: Six Stories About Open Data Impact in the UK](https://www.omidyar.com/sites/default/files/file_archive/insights/Open%20Data_Six%20Stories%20About%20Impact%20in%20the%20UK/OpenData_CaseStudies_Report_complete_DIGITAL_102715.pdf)
+- [Open Data Progress Report](http://open-austin.github.io/open-data-progress-report/)
 
 ## Policy Team Meeting Notes:
 
