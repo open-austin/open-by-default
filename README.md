@@ -12,6 +12,8 @@ Open Austin is drafting some priorities for Open Data & Open Government Policy a
 
 - [2011 CoA Open Data Ordiance](http://www.ci.austin.tx.us/edims/document.cfm?id=161941)
 - [2013 CoA Open Government Directive](http://www.open-austin.org/wp-content/uploads/2013/09/Memo-to-Mayor-and-Council-with-attached-Open-Government-Directive.pdf)
+- [2014 CoA Open Data Initiative 2.0 Directive](https://github.com/open-austin/open-by-default/blob/master/2014-CoA-Open-Data-Iniciative-Directive.md)
+  - [Open Data Plan Presentation to Dept Directors](https://github.com/open-austin/open-by-default/blob/master/Directors%20-%20Open%20Data%20Initiative%202015-04-07.pdf)
 - [Texas Legislature Open Government Code](http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.552.htm)
 - [Template for Community Tech & Telecom Recommendation](https://github.com/open-austin/open-by-default/blob/master/formal-recommendation-template.md)
 
