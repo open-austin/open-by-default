@@ -2,7 +2,7 @@
 
 Open Austin is drafting some priorities for Open Data & Open Government Policy at City Council.
 
-Contribute by: 
+## Contribute by: 
   - Reviewing the exisiting City of Austin [Open Data Ordiance](http://www.ci.austin.tx.us/edims/document.cfm?id=161941) from 2011.
   - Adding items or comments to our [Policy Priorities Google Doc](http://tinyurl.com/oa-policy-priorities)
   - [Suggesting a dataset for liberation](https://github.com/open-austin/liberate-the-data/)
