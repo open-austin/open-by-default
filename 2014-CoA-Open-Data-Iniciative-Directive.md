@@ -1,4 +1,4 @@
-
+![](http://www.jobtechnologies.com/_/rsrc/1251917920150/images/cityseal.gif)
 
 ### M E M O R A N D U M
  
