@@ -71,3 +71,5 @@ Training will be provided with the help of the Open Government Executive Board a
 
  
 Cc: Assistant City Managers, Chief of Staff, Open Government Executive Board, Chief Innovation Officer
+
+[link to "official" but incomplete PDF from City Manager](http://www.open-austin.org/wp-content/uploads/2013/09/20150408_Open_Data_Initiative_2_0.pdf)
