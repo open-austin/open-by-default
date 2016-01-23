@@ -16,6 +16,7 @@ Open Austin is drafting some priorities for Open Data & Open Government Policy a
   - [Open Data Plan Presentation to Dept Directors](https://github.com/open-austin/open-by-default/blob/master/Directors%20-%20Open%20Data%20Initiative%202015-04-07.pdf)
 - [Texas Legislature Open Government Code](http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.552.htm)
 - [Template for Community Tech & Telecom Recommendation](https://github.com/open-austin/open-by-default/blob/master/formal-recommendation-template.md)
+- [Open Austin Advocacy Agenda - 1 Jul 2015](https://docs.google.com/document/d/12LhAoZYSO4gRmGDrcMmQiu1PExepkXvdrZ2v3N6UdT4/edit?usp=sharing)
 
 ## Policy Guidelines, Reports, and Evaluations:
 - [Sunlight Foundation: Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/)
