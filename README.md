@@ -24,8 +24,9 @@ Open Austin is drafting some priorities for Open Data & Open Government Policy a
 - [Open Data Progress Report](http://open-austin.github.io/open-data-progress-report/)
 
 ## Articles:
+
 - [Why Portland Needs Open Data](https://medium.com/@hellopicoc/why-portland-needs-open-data-3f0ce0c7598#.rbeh18xgw)
-- 
+
 
 ## Policy Team Meeting Notes:
 
