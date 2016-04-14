@@ -23,6 +23,10 @@ Open Austin is drafting some priorities for Open Data & Open Government Policy a
 - [Omidyar Network: Six Stories About Open Data Impact in the UK](https://www.omidyar.com/sites/default/files/file_archive/insights/Open%20Data_Six%20Stories%20About%20Impact%20in%20the%20UK/OpenData_CaseStudies_Report_complete_DIGITAL_102715.pdf)
 - [Open Data Progress Report](http://open-austin.github.io/open-data-progress-report/)
 
+## Articles:
+- [Why Portland Needs Open Data](https://medium.com/@hellopicoc/why-portland-needs-open-data-3f0ce0c7598#.rbeh18xgw)
+- 
+
 ## Policy Team Meeting Notes:
 
 - [November 3, 2015](https://github.com/open-austin/open-by-default/wiki/Notes-from-3-Nov)
